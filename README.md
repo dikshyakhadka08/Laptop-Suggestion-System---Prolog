@@ -1,1 +1,1 @@
-# Laptop-Suggestion-System---Prolog
+# Laptop Suggestion System (Knowledge Based)
